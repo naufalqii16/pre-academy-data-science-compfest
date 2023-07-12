@@ -1,0 +1,21 @@
+TV  : target vaksinasi
+V1	: vaksinasi 1
+V2	: vaksinasi 2
+V1H	: vaksinasi 1 harian
+V2H	: vaksiniasi 2 harian
+P1	: persentase vaksinasi 1
+P2	: persentase vaksinasi 2
+Pel_pub	: pelayan publik (diganti jadi masyarakat umum)
+MU	: masyarakat umum
+usia_atas	: 18-59 tahun
+usia_tengah	: 12-17 tahun
+usia_muda	: 6-11 tahun
+D1		: dosis 1
+D2		: dosis 2
+Cak		: cakupan
+per		: percent (%)
+PVJ		: proporsi vaksin jakarta
+VGR		: vaksin gotong royong
+IRS		: isolasi di RS
+IR		: isolasi di Rumah
+
