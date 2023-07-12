@@ -7,6 +7,7 @@ kalau file data_proprocessing.ipynb error, hapus terlebih dahulu file csv beriku
 - data-inti-final
 
 
+# singkatan kolom
 TV  : target vaksinasi
 V1	: vaksinasi 1
 V2	: vaksinasi 2
