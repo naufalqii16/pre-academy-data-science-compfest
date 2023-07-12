@@ -1,3 +1,12 @@
+# petunjuk :
+kalau file data_proprocessing.ipynb error, hapus terlebih dahulu file csv berikut :
+- data-inti-suspek
+- data-inti-v2-lab
+- data-inti-v3-pemakaman
+- data-inti-v4-rdt
+- data-inti-final
+
+
 TV  : target vaksinasi
 V1	: vaksinasi 1
 V2	: vaksinasi 2
